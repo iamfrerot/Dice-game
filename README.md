@@ -52,4 +52,4 @@ This Dice-Game was created using the following technologies:
 - **CSS**: Styling for the game interface, including layout, colors, animations, and responsiveness.
 ---
 ### Enjoy the Game and May the Best Player Win! 🚀🎲  
-Play now: [rolldic.frerot.dev](https://rolldice.frerot.dev)
+Play now: [rolldice.frerot.dev](https://rolldice.frerot.dev)
