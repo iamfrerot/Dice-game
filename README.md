@@ -44,6 +44,12 @@ You can play the game live here: [rolldice.frerot.dev](https://rolldice.frerot.d
 - **Watch Out for the 1!**: A single roll of 1 can wipe out an entire round's progress, so always consider the potential for losing your points when deciding how many times to roll.
 
 ---
+## Stack Used
+This Dice-Game was created using the following technologies:
 
+- **JavaScript**: The logic and functionality of the game, including handling dice rolls, scoring, turns, and game flow.
+- **HTML**: The structure of the game page, including buttons, score displays, and game area.
+- **CSS**: Styling for the game interface, including layout, colors, animations, and responsiveness.
+---
 ### Enjoy the Game and May the Best Player Win! 🚀🎲  
 Play now: [rolldic.frerot.dev](https://rolldice.frerot.dev)
